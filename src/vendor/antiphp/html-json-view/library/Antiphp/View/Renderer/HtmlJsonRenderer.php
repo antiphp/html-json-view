@@ -2,7 +2,7 @@
 /**
  * class file
  * 
- * @author Christian Reinecke <christian.reinecke@gameforge.com>
+ * @author Christian Reinecke <christian.reinecke@web.de>
  */
 namespace Antiphp\View\Renderer;
 
