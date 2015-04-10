@@ -75,6 +75,8 @@ class HtmlJsonRenderer implements RendererInterface, TreeRendererInterface
             // wrong model
             return;
         }
+        // if we're here, we don't want to render a layout
+        $htmlJsonModel->setTerminal(true);
         
         // use our HTML renderer for the template
         $html = $this->htmlRenderer->render($htmlJsonModel, $values);

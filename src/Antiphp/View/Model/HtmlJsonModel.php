@@ -13,9 +13,4 @@ use Zend\View\Model\ViewModel;
  */
 class HtmlJsonModel extends ViewModel
 {
-    /**
-     * Disable layout
-     * @var bool
-     */
-    protected $terminate = true;
 }
