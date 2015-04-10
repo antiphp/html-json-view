@@ -1,4 +1,9 @@
 <?php
+/**
+ * class file
+ * 
+ * @author Christian Reinecke <christian.reinecke@gameforge.com>
+ */
 namespace Antiphp\View\Renderer;
 
 use Antiphp\View\Renderer\HtmlJsonRenderer;
