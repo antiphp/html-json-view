@@ -51,6 +51,7 @@ within JSON.
 
 ```json
 { html: '<div><h1>foobar</h1></div>' }
+```
 
 You did not win anything with this, until you add more data to your JSON. This
 could be Zend Framework's flash messenger messages ("saved successfully") or
